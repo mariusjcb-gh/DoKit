@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "mantle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Mantle/Mantle.git",
+      "state" : {
+        "revision" : "16f72bfe72a2ab29654ba894da1c32b17524e1a6",
+        "version" : "2.2.0"
+      }
+    },
+    {
+      "identity" : "socketrocket",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/robnadin/SocketRocket.git",
+      "state" : {
+        "branch" : "spm-support",
+        "revision" : "fe86ec01176ea3365ffa2d04a2bb6dd7a9e6c01e"
+      }
+    }
+  ],
+  "version" : 2
+}
